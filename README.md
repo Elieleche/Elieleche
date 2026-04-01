@@ -30,8 +30,12 @@ A feature-rich stats tracker for Faceit, designed to help players analyze their 
 ---
 
 ### 📊 GitHub Stats
-![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieleche&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieleche&layout=compact&theme=radical)
+<!-- Stats principales -->
+[![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieleche&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/Elieleche)
+<!-- Top langages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieleche&layout=compact&theme=radical&langs_count=6)](https://github.com/Elieleche)
+<!-- Streak (alternative) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Elieleche&theme=radical)
 
 ---
 
