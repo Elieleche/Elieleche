@@ -30,8 +30,8 @@ A feature-rich stats tracker for Faceit, designed to help players analyze their 
 ---
 
 ### 📊 GitHub Stats
-![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieleche-github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieleche-github&layout=compact&theme=radical)
+![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elieleche&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elieleche&layout=compact&theme=radical)
 
 ---
 
@@ -44,6 +44,5 @@ I code with **purpose** and **community** in mind. My projects reflect my belief
 ---
 
 ### 📬 Let’s Connect
-- 📧 Email: [eliechardin.dev@gmail..com](mailto:eliechardin.dev@gmail.com)
+- 📧 Email: [eliechardin.dev@gmail.com](mailto:eliechardin.dev@gmail.com)
 - 🔗 LinkedIn: [Elie CHARDIN](https://www.linkedin.com/in/elie-chardin/)
----
